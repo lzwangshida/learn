@@ -2,4 +2,7 @@
 1. http://springboot.javaboy.org/
 springBoot的学习网站
 2.idea插件推荐
-https://www.cnblogs.com/jxlsblog/p/idea.html
+https://www.cnblogs.com/jxlsblog/p/idea.htm
+
+#开源项目
+https://hellogithub.com/
